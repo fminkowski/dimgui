@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Fred Minkowski"
+	],
+	"copyright": "Copyright © 2019, Fred Minkowski",
+	"description": "A cimgui wrapper",
+	"license": "MIT",
+	"name": "dimgui"
+}
