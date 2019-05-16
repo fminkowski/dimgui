@@ -1,4 +1,5 @@
 module dimgui;
+import derelict.glfw3.glfw3;
 import core.stdc.stdarg:va_list;
 
 extern(C) @nogc nothrow {
