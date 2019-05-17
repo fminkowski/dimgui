@@ -14,3 +14,4 @@ dimgui-test-*
 *.obj
 *.lst
 *.a
+libdimgui.a
